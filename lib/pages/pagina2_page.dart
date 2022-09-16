@@ -6,7 +6,7 @@ class Pagina2Page extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.green,
       appBar: AppBar(
-        title: Text("Página 1"),
+        title: Text("Página 2"),
       ),
       body: Center(
         child: Text('Hola Mundo'),
